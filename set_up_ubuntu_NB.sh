@@ -18,7 +18,7 @@ apt-get install -y python3-pip
 
 
 # ----- Install python modules -----
-python3 -m pip install numpy pandas acoular scipy jupyter Markdown pyargus twine wheel setuptools jupyterlab matplotlib dataclass wave wavefile soundfile arlpy
+python3 -m pip install numpy pandas acoular scipy jupyter Markdown pyargus twine wheel setuptools jupyterlab matplotlib dataclass wave wavefile soundfile arlpy shlnb control
 
 # ----- Set up git and clone personal GitHub repos -----
 git config --global user.name "butterlyn"
@@ -27,6 +27,8 @@ git config --global credential.helper store
 
 git clone https://github.com/butterlyn/BUTTERLYN_WSL_FILES
 git clone https://github.com/butterlyn/PYTHON_MODULE_TEMPLATE
+git clone https://github.com/butterlyn/SHLNB
+git clone https://github.com/uwasystemhealth/pybnk
 
 # ----- Misc -----
 if false; then
