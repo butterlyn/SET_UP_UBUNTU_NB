@@ -1,8 +1,8 @@
 # Run this script in bash in terminal `sudo bash set_up_ubuntu_NB.sh` in order to configure a fresh install of Ubuntu
 
 # ----- Create document directory -----
-mkdir documents
-cd documents
+mkdir ../documents
+cd ../documents
 
 # ----- Update all apt packages -----
 apt-get update ; apt-get upgrade -y
