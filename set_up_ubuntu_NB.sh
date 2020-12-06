@@ -18,7 +18,7 @@ apt-get install -y python3-pip
 
 
 # ----- Install python modules -----
-python3 -m pip install numpy pandas acoular scipy jupyter Markdown pyargus twine wheel setuptools jupyterlab matplotlib dataclass wave wavefile soundfile arlpy shlnb control
+python3 -m pip install numpy pandas acoular scipy jupyter Markdown pyargus twine wheel setuptools jupyterlab matplotlib wave wavefile soundfile arlpy shlnb
 
 # ----- Set up git and clone personal GitHub repos -----
 git config --global user.name "butterlyn"
