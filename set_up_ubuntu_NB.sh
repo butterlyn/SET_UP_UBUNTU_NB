@@ -15,6 +15,7 @@ apt-get install -y python-dev
 apt-get install -y grip
 apt-get install -y markdown
 apt-get install -y python3-pip
+apt-get install -y vim
 
 
 # ----- Install python modules -----
