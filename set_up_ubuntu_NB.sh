@@ -30,6 +30,7 @@ git clone https://github.com/uwasystemhealth/BUTTERLYN_WSL_FILES
 git clone https://github.com/butterlyn/PYTHON_MODULE_TEMPLATE
 git clone https://github.com/butterlyn/SHLNB
 git clone https://github.com/uwasystemhealth/pybnk
+git clone https://github.com/butterlyn/MPE_SHL_Butterly
 
 # ----- Misc -----
 if false; then
