@@ -26,11 +26,11 @@ git config --global user.name "butterlyn"
 git config --global user.email "butterlyn888@gmail.com"
 git config --global credential.helper store
 
-git clone https://github.com/uwasystemhealth/BUTTERLYN_WSL_FILES
+git clone https://github.com/butterlyn/PYTHON_FILES
 git clone https://github.com/butterlyn/PYTHON_MODULE_TEMPLATE
 git clone https://github.com/butterlyn/SHLNB
 git clone https://github.com/uwasystemhealth/pybnk
-git clone https://github.com/butterlyn/MPE_SHL_Butterly
+git clone https://github.com/butterlyn/PROJECT_FILES
 
 # ----- Misc -----
 if false; then
