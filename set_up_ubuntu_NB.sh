@@ -17,10 +17,6 @@ apt-get install -y markdown
 apt-get install -y python3-pip
 apt-get install -y vim
 
-
-# ----- Install python modules -----
-python3 -m pip install numpy pandas acoular scipy jupyter Markdown pyargus twine wheel setuptools jupyterlab matplotlib wave wavefile soundfile arlpy shlnb
-
 # ----- Set up git and clone personal GitHub repos -----
 git config --global user.name "butterlyn"
 git config --global user.email "butterlyn888@gmail.com"
@@ -31,6 +27,9 @@ git clone https://github.com/butterlyn/PYTHON_MODULE_TEMPLATE
 git clone https://github.com/butterlyn/SHLNB
 git clone https://github.com/uwasystemhealth/pybnk
 git clone https://github.com/butterlyn/PROJECT_FILES
+
+# ----- Install python modules -----
+python3 -m pip install numpy pandas acoular scipy jupyter Markdown pyargus twine wheel setuptools jupyterlab matplotlib wave wavefile soundfile arlpy shlnb pysoundfile ./pybnk
 
 # ----- Misc -----
 if false; then
