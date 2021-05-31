@@ -22,11 +22,8 @@ git config --global user.name "butterlyn"
 git config --global user.email "butterlyn888@gmail.com"
 git config --global credential.helper store
 
-git clone https://github.com/butterlyn/PYTHON_FILES
 git clone https://github.com/butterlyn/PYTHON_MODULE_TEMPLATE
-git clone https://github.com/butterlyn/SHLNB
-git clone https://github.com/uwasystemhealth/pybnk
-git clone https://github.com/butterlyn/PROJECT_FILES
+git clone https://github.com/butterlyn/PROJECT_FILES_BUTTERLY
 
 # ----- Install python modules -----
 python3 -m pip install numpy pandas acoular scipy jupyter Markdown pyargus twine wheel setuptools jupyterlab matplotlib wave wavefile soundfile arlpy shlnb pysoundfile ./pybnk
