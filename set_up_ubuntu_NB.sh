@@ -26,7 +26,7 @@ git clone https://github.com/butterlyn/PYTHON_MODULE_TEMPLATE
 git clone https://github.com/butterlyn/PROJECT_FILES_BUTTERLY
 
 # ----- Install python modules -----
-python3 -m pip install numpy pandas acoular scipy jupyter Markdown pyargus twine wheel setuptools jupyterlab matplotlib wave wavefile soundfile arlpy shlnb pysoundfile
+python3 -m pip install numpy pandas acoular scipy jupyter Markdown pyargus twine wheel setuptools jupyterlab matplotlib wave wavefile soundfile arlpy shlnb pysoundfile pytest
 python3 -m pip install git+https://github.com/uwasystemhealth/pybnk
 
 # ----- Misc -----
